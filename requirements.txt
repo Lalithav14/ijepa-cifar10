@@ -1,0 +1,5 @@
+torch
+kagglehub
+torchvision
+numpy
+scikit-learn
